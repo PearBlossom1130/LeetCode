@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.LongestPalindrome", "5.Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.ReverseInteger", "7.ReverseInteger\7.ReverseInteger.csproj", "{A9F059CD-5E99-4829-916F-A04D27A0349D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.ZigZagConversion", "6.LongestPalindromicSubstring\6.ZigZagConversion.csproj", "{DA85D63A-02CE-49FA-A38E-C1CFCC89EA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.StringToInteger", "8.StringToInteger\8.StringToInteger.csproj", "{B03B1E65-92BC-4CD5-B361-73C9CE7AAFBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A9F059CD-5E99-4829-916F-A04D27A0349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F059CD-5E99-4829-916F-A04D27A0349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F059CD-5E99-4829-916F-A04D27A0349D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA85D63A-02CE-49FA-A38E-C1CFCC89EA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA85D63A-02CE-49FA-A38E-C1CFCC89EA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA85D63A-02CE-49FA-A38E-C1CFCC89EA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA85D63A-02CE-49FA-A38E-C1CFCC89EA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03B1E65-92BC-4CD5-B361-73C9CE7AAFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03B1E65-92BC-4CD5-B361-73C9CE7AAFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03B1E65-92BC-4CD5-B361-73C9CE7AAFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03B1E65-92BC-4CD5-B361-73C9CE7AAFBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
